@@ -1,4 +1,5 @@
 # Jonatã Hofmann
+###### Entusiasta da Tecnologia, apaixonado pelo que faz!<br>
 Canoas, Rio Grande do Sul, Brasil<br/><br/>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonatahofmann/)](https://www.linkedin.com/in/jonatahofmann/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jonatahofmann@gmail.com)](mailto:jonatahofmann@gmail.com)
