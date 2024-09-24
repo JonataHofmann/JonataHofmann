@@ -4,29 +4,15 @@ Canoas, Rio Grande do Sul, Brasil<br/><br/>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonatahofmann/)](https://www.linkedin.com/in/jonatahofmann/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jonatahofmann@gmail.com)](mailto:jonatahofmann@gmail.com)
 
-### Tech Lead Desenvolvimento :rocket:
+### Arquiteto de Software | Desenvolvedor Fullstack :rocket:
 
-Conhecimentos consolidados e sólidos em Genexus Web e Mobile e User Control Web.<br/>
-Experiências em desenvolvimento de sistemas Genexus Web, integração de templates externos.<br/>
-Desenvolvimento de softwares usando metologias ágeis.<br/>
-Desenvolvimento de sistemas Genexus Mobile, gerando para Android e iOS, publicação nas respectivas lojas etc.<br/>
-Integração Java e C# em projetos Genexus.<br/>
-Experiência com treinamentos, arquitetura de sistemas, análises e especificações técnicas.<br/>
-Consultorias Genexus Evolution 1, 2, 3 e Genexus 15, Web e Mobile Online, Mobile Offline (Android e iOS).<br/>
-Especialidade em sistema mobile em Genexus, Android e iOS.<br/>
+Entusiasmado por liderar equipes e impulsionar o sucesso de projetos tecnológicos inovadores. Tenho um profundo conhecimento em desenvolvimento de sistemas, especialmente com foco nas tecnologias React e React Native, que me permitem criar experiências incríveis e intuitivas para os usuários.
 
-Conhecimentos adicionais:
-- Publicações de Apps Android e iOS, em suas respectivas lojas.
-- Desenvolvimento de User Controls Web Genexus.
-- Integração de Bibliotecas Java e C# externas ao Genexus.
-- Scrum.
-- Android Nativo.
-- React Native.
-- React JS.
-- Java com Spring Framework.
-- PHP, com framework Laravel e arquitetura MVC.
-- Bancos de dados, MySql, SQLServer, Postgres e linguagem SQL.
-- Frameworks de desenvolvimento web Bootstrap, JQuery. 
+Além disso, possuo sólidos conhecimentos em desenvolvimento de sistemas com NodeJS, utilizando frameworks populares como Express e NestJS. Também estou familiarizado(a) com o desenvolvimento de sistemas com CSharp, onde utilizo o Entity Framework e o Identity para criar soluções robustas e seguras.
+
+Minha trajetória também inclui experiências em desenvolvimento de sistemas com Java, usando o framework Spring, e com Angular. Sou um defensor das metodologias ágeis, e meu trabalho é pautado por uma abordagem iterativa e colaborativa, visando entregar valor aos clientes de forma rápida e eficiente.
+
+Estou familiarizado(a) com o ambiente do Azure DevOps, incluindo o uso de Pipelines, para garantir uma integração contínua eficaz e uma entrega automatizada.
 
 <!--
 **JonataHofmann/JonataHofmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
