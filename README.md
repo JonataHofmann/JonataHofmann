@@ -5,10 +5,10 @@ Canoas, Rio Grande do Sul, Brasil<br/><br/>
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jonatahofmann@gmail.com)](mailto:jonatahofmann@gmail.com)
 
 ### Arquiteto de Software | Desenvolvedor Fullstack :rocket:
-
-Entusiasmado por liderar equipes e impulsionar o sucesso de projetos tecnológicos inovadores. Tenho um profundo conhecimento em desenvolvimento de sistemas, especialmente com foco nas tecnologias React, Angular, Node e .NET/.NET Core.
-
-Também tenho conhecimento em Docker e DevOps, incluindo uso de Pipelines, para garantir uma integração contínua eficaz e uma entrega automatizada.
+Arquiteto de Software com experiência no desenho e evolução de arquiteturas distribuídas, microsserviços, sistemas multi-tenant, integração entre domínios, processamento assíncrono, arquiteturas orientadas a eventos e evolução e sustentação de sistemas legados.
+Atuação com React, Next.js, Angular, Node.js, NestJS, .NET, Java/Spring Boot, PostgreSQL, MongoDB, Redis, Kafka, Azure Service Bus, Docker, Kubernetes e Azure, incluindo definição de APIs, observabilidade, escalabilidade, resiliência, CI/CD e infraestrutura cloud.
+Experiência prática com Inteligência Artificial aplicada a produtos, utilizando LLMs, agentes, RAG, embeddings, busca vetorial, prompt engineering, tool calling, processamento de documentos e análise de conteúdo multimodal, com integrações com provedores de IA como Open Ai e Claude.
+Atuo desde decisões arquiteturais e definição de padrões técnicos até implementação, revisão de código, integração entre serviços, infraestrutura e direcionamento técnico das equipes.
 
 <!--
 **JonataHofmann/JonataHofmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
